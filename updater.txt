@@ -1,5 +1,5 @@
 {
 "versionName":"3.0.0",
-  "apkUrl":"",
+  "apkUrl":"https://github.com/Mr30nama/30nama-Android-TV/releases/download/RC-1/30nama.apk",
   "forceUpdate": true
 }
