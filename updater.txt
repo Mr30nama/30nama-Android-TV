@@ -1,5 +1,5 @@
 {
-"versionName":"3.0.4",
-  "apkUrl":"https://github.com/Mr30nama/30nama-Android-TV/releases/download/RC-5/30nama.apk",
+"versionName":"3.0.5",
+  "apkUrl":"https://github.com/Mr30nama/30nama-Android-TV/releases/download/RC-6/30nama.apk",
   "forceUpdate": true
 }
